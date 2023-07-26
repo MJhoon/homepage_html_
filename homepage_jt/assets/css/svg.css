@@ -1,0 +1,1081 @@
+.cls-1 {
+  fill: #fff;
+  stroke: #0673b5;
+  stroke-miterlimit: 10;
+  stroke-width: 2px;
+}
+.TpwDlFpr_0 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_0 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_1 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_1 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_2 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_2 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_3 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_3 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_4 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_4 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_5 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_5 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_6 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_6 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_7 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_7 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_8 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_8 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_9 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_9 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_10 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_10 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+.TpwDlFpr_11 {
+  stroke-dasharray: 40 42;
+  stroke-dashoffset: 41;
+  animation: TpwDlFpr_draw_11 2800ms ease-out 0ms infinite,
+    TpwDlFpr_fade 2800ms linear 0ms infinite;
+}
+@keyframes TpwDlFpr_draw {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_fade {
+  0% {
+    stroke-opacity: 1;
+  }
+  92.85714285714286% {
+    stroke-opacity: 1;
+  }
+  100% {
+    stroke-opacity: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_0 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_1 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_2 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_3 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_4 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_5 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_6 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_7 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_8 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_9 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_10 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes TpwDlFpr_draw_11 {
+  3.571428571428571% {
+    stroke-dashoffset: 41;
+  }
+  21.428571428571427% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+.HoKbnvpt_0 {
+  stroke-dasharray: 446 448;
+  stroke-dashoffset: 447;
+  animation: HoKbnvpt_draw 1043ms ease-in-out 0ms forwards;
+}
+.HoKbnvpt_1 {
+  stroke-dasharray: 66 68;
+  stroke-dashoffset: 67;
+  animation: HoKbnvpt_draw 156ms ease-in-out 1043ms forwards;
+}
+@keyframes HoKbnvpt_draw {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes HoKbnvpt_fade {
+  0% {
+    stroke-opacity: 1;
+  }
+  92.5925925925926% {
+    stroke-opacity: 1;
+  }
+  100% {
+    stroke-opacity: 0;
+  }
+}
+.UTIwkhve_0 {
+  stroke-dasharray: 49 51;
+  stroke-dashoffset: 50;
+  animation: UTIwkhve_draw 232ms ease-in-out 0ms forwards;
+}
+.UTIwkhve_1 {
+  stroke-dasharray: 48 50;
+  stroke-dashoffset: 49;
+  animation: UTIwkhve_draw 227ms ease-in-out 232ms forwards;
+}
+.UTIwkhve_2 {
+  stroke-dasharray: 158 160;
+  stroke-dashoffset: 159;
+  animation: UTIwkhve_draw 739ms ease-in-out 460ms forwards;
+}
+@keyframes UTIwkhve_draw {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes UTIwkhve_fade {
+  0% {
+    stroke-opacity: 1;
+  }
+  92.5925925925926% {
+    stroke-opacity: 1;
+  }
+  100% {
+    stroke-opacity: 0;
+  }
+}
+
+/*arrow-icon*/
+/***************************************************
+ * Generated by SVG Artista on 7/14/2023, 10:02:28 AM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+ @-webkit-keyframes animate-svg-stroke-arrow1 {
+  0% {
+    stroke-dashoffset: 674.2174072265625px;
+    stroke-dasharray: 674.2174072265625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 674.2174072265625px;
+  }
+}
+
+@keyframes animate-svg-stroke-arrow1 {
+  0% {
+    stroke-dashoffset: 674.2174072265625px;
+    stroke-dasharray: 674.2174072265625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 674.2174072265625px;
+  }
+}
+
+.arrow_icon-1 {
+  -webkit-animation: animate-svg-stroke-arrow1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+          animation: animate-svg-stroke-arrow1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+}
+
+
+
+/*About*/
+/***************************************************
+ * Generated by SVG Artista on 7/6/2023, 11:13:28 AM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+ @-webkit-keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 674.2174072265625px;
+    stroke-dasharray: 674.2174072265625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 674.2174072265625px;
+  }
+}
+
+@keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 674.2174072265625px;
+    stroke-dasharray: 674.2174072265625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 674.2174072265625px;
+  }
+}
+
+.svg-elem-1 {
+  -webkit-animation: animate-svg-stroke-1 0.6s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+          animation: animate-svg-stroke-1 0.6s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+}
+
+/*svg_ux*/
+/***************************************************
+ * Generated by SVG Artista on 7/14/2023, 10:06:45 AM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+ @-webkit-keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 157.5956573486328px;
+    stroke-dasharray: 157.5956573486328px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 157.5956573486328px;
+  }
+}
+
+@keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 157.5956573486328px;
+    stroke-dasharray: 157.5956573486328px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 157.5956573486328px;
+  }
+}
+
+.svg_ux-1 {
+  -webkit-animation: animate-svg-stroke-1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+          animation: animate-svg-stroke-1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 162.04791259765625px;
+    stroke-dasharray: 162.04791259765625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 162.04791259765625px;
+  }
+}
+
+@keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 162.04791259765625px;
+    stroke-dasharray: 162.04791259765625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 162.04791259765625px;
+  }
+}
+
+.svg_ux-2 {
+  -webkit-animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.3s both;
+          animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.3s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 287.70245361328125px;
+    stroke-dasharray: 287.70245361328125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 287.70245361328125px;
+  }
+}
+
+@keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 287.70245361328125px;
+    stroke-dasharray: 287.70245361328125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 287.70245361328125px;
+  }
+}
+
+.svg_ux-3 {
+  -webkit-animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6s both;
+          animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6s both;
+}
+
+/*svg_platform*/
+/***************************************************
+ * Generated by SVG Artista on 7/14/2023, 10:10:11 AM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+ @-webkit-keyframes animate-svg-stroke-01 {
+  0% {
+    stroke-dashoffset: 512.4962768554688px;
+    stroke-dasharray: 512.4962768554688px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 512.4962768554688px;
+  }
+}
+
+@keyframes animate-svg-stroke-01 {
+  0% {
+    stroke-dashoffset: 512.4962768554688px;
+    stroke-dasharray: 512.4962768554688px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 512.4962768554688px;
+  }
+}
+
+.svg_platform-01 {
+  -webkit-animation: animate-svg-stroke-01 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+          animation: animate-svg-stroke-01 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 321.44378662109375px;
+    stroke-dasharray: 321.44378662109375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 321.44378662109375px;
+  }
+}
+
+@keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 321.44378662109375px;
+    stroke-dasharray: 321.44378662109375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 321.44378662109375px;
+  }
+}
+
+.svg_platform-2 {
+  -webkit-animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s both;
+          animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 275.9967041015625px;
+    stroke-dasharray: 275.9967041015625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 275.9967041015625px;
+  }
+}
+
+@keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 275.9967041015625px;
+    stroke-dasharray: 275.9967041015625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 275.9967041015625px;
+  }
+}
+
+.svg_platform-3 {
+  -webkit-animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s both;
+          animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-4 {
+  0% {
+    stroke-dashoffset: 337.4288024902344px;
+    stroke-dasharray: 337.4288024902344px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 337.4288024902344px;
+  }
+}
+
+@keyframes animate-svg-stroke-4 {
+  0% {
+    stroke-dashoffset: 337.4288024902344px;
+    stroke-dasharray: 337.4288024902344px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 337.4288024902344px;
+  }
+}
+
+.svg_platform-4 {
+  -webkit-animation: animate-svg-stroke-4 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.30000000000000004s both;
+          animation: animate-svg-stroke-4 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.30000000000000004s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-5 {
+  0% {
+    stroke-dashoffset: 196.820556640625px;
+    stroke-dasharray: 196.820556640625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 196.820556640625px;
+  }
+}
+
+@keyframes animate-svg-stroke-5 {
+  0% {
+    stroke-dashoffset: 196.820556640625px;
+    stroke-dasharray: 196.820556640625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 196.820556640625px;
+  }
+}
+
+.svg_platform-5 {
+  -webkit-animation: animate-svg-stroke-5 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s both;
+          animation: animate-svg-stroke-5 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 324.3528137207031px;
+    stroke-dasharray: 324.3528137207031px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 324.3528137207031px;
+  }
+}
+
+@keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 324.3528137207031px;
+    stroke-dasharray: 324.3528137207031px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 324.3528137207031px;
+  }
+}
+
+.svg_platform-6 {
+  -webkit-animation: animate-svg-stroke-6 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s both;
+          animation: animate-svg-stroke-6 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-7 {
+  0% {
+    stroke-dashoffset: 373.4294128417969px;
+    stroke-dasharray: 373.4294128417969px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 373.4294128417969px;
+  }
+}
+
+@keyframes animate-svg-stroke-7 {
+  0% {
+    stroke-dashoffset: 373.4294128417969px;
+    stroke-dasharray: 373.4294128417969px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 373.4294128417969px;
+  }
+}
+
+.svg_platform-7 {
+  -webkit-animation: animate-svg-stroke-7 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6000000000000001s both;
+          animation: animate-svg-stroke-7 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6000000000000001s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-8 {
+  0% {
+    stroke-dashoffset: 222.96826171875px;
+    stroke-dasharray: 222.96826171875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 222.96826171875px;
+  }
+}
+
+@keyframes animate-svg-stroke-8 {
+  0% {
+    stroke-dashoffset: 222.96826171875px;
+    stroke-dasharray: 222.96826171875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 222.96826171875px;
+  }
+}
+
+.svg_platform-8 {
+  -webkit-animation: animate-svg-stroke-8 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.7000000000000001s both;
+          animation: animate-svg-stroke-8 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.7000000000000001s both;
+}
+/*svg_mobile*/
+/***************************************************
+ * Generated by SVG Artista on 7/14/2023, 10:44:31 AM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+ @-webkit-keyframes animate-svg-stroke-mobile1 {
+  0% {
+    stroke-dashoffset: 517.9273681640625px;
+    stroke-dasharray: 517.9273681640625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 517.9273681640625px;
+  }
+}
+
+@keyframes animate-svg-stroke-mobile1 {
+  0% {
+    stroke-dashoffset: 517.9273681640625px;
+    stroke-dasharray: 517.9273681640625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 517.9273681640625px;
+  }
+}
+
+.svg_mobile-1 {
+  -webkit-animation: animate-svg-stroke-mobile1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+          animation: animate-svg-stroke-mobile1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 256.5640563964844px;
+    stroke-dasharray: 256.5640563964844px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 256.5640563964844px;
+  }
+}
+
+@keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 256.5640563964844px;
+    stroke-dasharray: 256.5640563964844px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 256.5640563964844px;
+  }
+}
+
+.svg_mobile-2 {
+  -webkit-animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s both;
+          animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 316.7544250488281px;
+    stroke-dasharray: 316.7544250488281px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 316.7544250488281px;
+  }
+}
+
+@keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 316.7544250488281px;
+    stroke-dasharray: 316.7544250488281px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 316.7544250488281px;
+  }
+}
+
+.svg_mobile-3 {
+  -webkit-animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s both;
+          animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-04 {
+  0% {
+    stroke-dashoffset: 512.4962463378906px;
+    stroke-dasharray: 512.4962463378906px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 512.4962463378906px;
+  }
+}
+
+@keyframes animate-svg-stroke-04 {
+  0% {
+    stroke-dashoffset: 512.4962463378906px;
+    stroke-dasharray: 512.4962463378906px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 512.4962463378906px;
+  }
+}
+
+.svg_mobile-04 {
+  -webkit-animation: animate-svg-stroke-04 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.30000000000000004s both;
+          animation: animate-svg-stroke-04 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.30000000000000004s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-05 {
+  0% {
+    stroke-dashoffset: 321.4434509277344px;
+    stroke-dasharray: 321.4434509277344px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 321.4434509277344px;
+  }
+}
+
+@keyframes animate-svg-stroke-05 {
+  0% {
+    stroke-dashoffset: 321.4434509277344px;
+    stroke-dasharray: 321.4434509277344px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 321.4434509277344px;
+  }
+}
+
+.svg_mobile-5 {
+  -webkit-animation: animate-svg-stroke-05 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s both;
+          animation: animate-svg-stroke-05 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 196.8206024169922px;
+    stroke-dasharray: 196.8206024169922px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 196.8206024169922px;
+  }
+}
+
+@keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 196.8206024169922px;
+    stroke-dasharray: 196.8206024169922px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 196.8206024169922px;
+  }
+}
+
+.svg_mobile-6 {
+  -webkit-animation: animate-svg-stroke-6 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s both;
+          animation: animate-svg-stroke-6 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s both;
+}
+
+
+/*svg_service*/
+/***************************************************
+ * Generated by SVG Artista on 7/14/2023, 10:13:30 AM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+ @-webkit-keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 255.55397033691406px;
+    stroke-dasharray: 255.55397033691406px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 255.55397033691406px;
+  }
+}
+
+@keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 255.55397033691406px;
+    stroke-dasharray: 255.55397033691406px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 255.55397033691406px;
+  }
+}
+
+.svg_service-1 {
+  -webkit-animation: animate-svg-stroke-1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+          animation: animate-svg-stroke-1 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 373.42913818359375px;
+    stroke-dasharray: 373.42913818359375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 373.42913818359375px;
+  }
+}
+
+@keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 373.42913818359375px;
+    stroke-dasharray: 373.42913818359375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 373.42913818359375px;
+  }
+}
+
+.svg_service-2 {
+  -webkit-animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s both;
+          animation: animate-svg-stroke-2 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.1s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 316.75390625px;
+    stroke-dasharray: 316.75390625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 316.75390625px;
+  }
+}
+
+@keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 316.75390625px;
+    stroke-dasharray: 316.75390625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 316.75390625px;
+  }
+}
+
+.svg_service-3 {
+  -webkit-animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s both;
+          animation: animate-svg-stroke-3 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-4 {
+  0% {
+    stroke-dashoffset: 316.75433349609375px;
+    stroke-dasharray: 316.75433349609375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 316.75433349609375px;
+  }
+}
+
+@keyframes animate-svg-stroke-4 {
+  0% {
+    stroke-dashoffset: 316.75433349609375px;
+    stroke-dasharray: 316.75433349609375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 316.75433349609375px;
+  }
+}
+
+.svg_service-4 {
+  -webkit-animation: animate-svg-stroke-4 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.30000000000000004s both;
+          animation: animate-svg-stroke-4 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.30000000000000004s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-5 {
+  0% {
+    stroke-dashoffset: 224.41378784179688px;
+    stroke-dasharray: 224.41378784179688px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 224.41378784179688px;
+  }
+}
+
+@keyframes animate-svg-stroke-5 {
+  0% {
+    stroke-dashoffset: 224.41378784179688px;
+    stroke-dasharray: 224.41378784179688px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 224.41378784179688px;
+  }
+}
+
+.svg_service-5 {
+  -webkit-animation: animate-svg-stroke-5 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s both;
+          animation: animate-svg-stroke-5 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.4s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 264.8431091308594px;
+    stroke-dasharray: 264.8431091308594px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 264.8431091308594px;
+  }
+}
+
+@keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 264.8431091308594px;
+    stroke-dasharray: 264.8431091308594px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 264.8431091308594px;
+  }
+}
+
+.svg_service-6 {
+  -webkit-animation: animate-svg-stroke-6 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s both;
+          animation: animate-svg-stroke-6 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.5s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-7 {
+  0% {
+    stroke-dashoffset: 256.5640563964844px;
+    stroke-dasharray: 256.5640563964844px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 256.5640563964844px;
+  }
+}
+
+@keyframes animate-svg-stroke-7 {
+  0% {
+    stroke-dashoffset: 256.5640563964844px;
+    stroke-dasharray: 256.5640563964844px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 256.5640563964844px;
+  }
+}
+
+.svg_service-7 {
+  -webkit-animation: animate-svg-stroke-7 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6000000000000001s both;
+          animation: animate-svg-stroke-7 0.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6000000000000001s both;
+}
